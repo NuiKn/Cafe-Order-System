@@ -1,1 +1,2 @@
-โหลดโฟลเดอร์ ProJect ไปไว้ที่ drive D:
+Folder ProJect เป็นไฟล์รูปภาพที่ใช้ในProject
+Folder Finish เป็นภาพของโปรแกรมที่เสร็จแล้ว
